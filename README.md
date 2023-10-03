@@ -1,2 +1,3 @@
 # GuessTheFlag
-![image](https://github.com/guraygul/GuessTheFlag/assets/58820744/968f7cf4-b565-4bb5-b65a-a719ffc27533)
+<img width="509" alt="image" src="https://github.com/guraygul/GuessTheFlag/assets/58820744/b87e56c4-5f5d-4d4a-8162-1cdfbcac1ca2">
+
